@@ -2,7 +2,7 @@
 在命令行使用python实时查看股市信息
 
 # screen shot
-![截图](screen_shot.png)
+![截图](screenshot.png)
 
 
 # RUN
