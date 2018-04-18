@@ -1,8 +1,12 @@
-# stockInCommandLine
-
+# terminal stock monitor
 在命令行使用python实时查看股市信息
 
+# screen shot
+![截图](screen_shot.png)
 
+
+# RUN
+`$ python3 stk_test.py`
 ====================================
 
 #2015-05-30
